@@ -1,0 +1,10 @@
+{
+  "projectId": "feeblecrm",
+  "appId": "1:162458133004:web:24898d4f734189dfe98429",
+  "apiKey": "AIzaSyBmtD1NKgQP1ltiE7sEZGpTW5ssxuKmxw0",
+  "authDomain": "feeblecrm.firebaseapp.com",
+  "firestoreDatabaseId": "(default)",
+  "storageBucket": "feeblecrm.firebasestorage.app",
+  "messagingSenderId": "162458133004",
+  "measurementId": "G-6SRXN7KHT3"
+}
